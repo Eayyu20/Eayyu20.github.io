@@ -12,10 +12,15 @@ body {
 }
 /* Navbar/Header */
 .header {
+  position: sticky;
+  border-style: 1px solid;
 }
 .header-title {
+  font: lato;
+  color: primary;
 }
 .header hr{
+  color: grey;
 }
 /* Header Gallery Thumbnails */
 .header-thumbnails {
